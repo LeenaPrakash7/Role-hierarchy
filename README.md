@@ -8,4 +8,4 @@ Aim: To add, display and delete roles or designations of the company and to perf
 
 A total of ten operations can be performed as mentioned in the problem statement. 
 Any c++ compiler can be used for compilation. 
-
+Sample screenshots of output are attached. kindly refer to them. 
